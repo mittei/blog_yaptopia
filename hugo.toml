@@ -1,0 +1,4 @@
+baseURL = 'https://mittei.neocities.org/'
+languageCode = 'en-us'
+title = 'Yaptopia'
+theme = []

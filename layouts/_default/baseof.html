@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+<head>
+  {{ $style := resources.Get "css/main.css" }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+<body>
+  <div class="global-wrapper">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
+</body>
+</html>
