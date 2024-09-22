@@ -49,18 +49,23 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Archive artifact
+        uses: actions/upload-artifact@v4
         with:
-          path: ./public
-
+          name: site
+          path: public
   # Deployment job
   deploy:
     runs-on: ubuntu-latest
     environment: neocities
     needs: build
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: public
       - name: Deploy to neocities
         uses: bcomnes/deploy-to-neocities@v2
         with:
