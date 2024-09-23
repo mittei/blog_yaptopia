@@ -5,39 +5,36 @@
   --primary-color: #59322B;
   --red: #D54751;
   --orange: #EF9A48;
-  --background-color: #FFFCC7;
+  --background-color: #faf8d3;
   --cyan: #4DA394;
 
   /* sizes */
-  --page-width: 800px;
+  --page-width: 700px;
 }
 
 *, ::after, ::before {
   /* box-sizing: border-box; */
 }
 
-html {
-}
-
-html, body {
-  height: 100%;
-}
 
 body {
-  /* Putting these svg filters on the <html> element didn't work on Firefox */
-  /* Also on Firefox, you need to set background for inner elements, instead of body */
-  /* filter: url('/svg/retro_filter.svg#filter');
-  -webkit-filter: url('/svg/retro_filter.svg#filter'); */
-
   font-family: 'Inclusive Sans', 'Arial', sans-serif;
   font-size: 1.2rem;
   color: var(--primary-color);
 
   line-height: 1.6;
+  overflow-wrap: break-word;
+  
   margin: 0;
   padding: 0;
 
   position: relative; /* required to make the overlay work */
+}
+body:has(#toggle-retro-filter:checked) {
+  /* Putting these svg filters on the <html> element didn't work on Firefox */
+  /* Also on Firefox, you need to set background for inner elements, instead of body */
+  filter: url('/svg/retro_filter.svg#filter');
+  -webkit-filter: url('/svg/retro_filter.svg#filter');
 }
 
 .global-wrapper {
@@ -69,6 +66,11 @@ header, nav, main, footer {
 header {
   background-color: #4DA394;
   text-align: center;
+  border-bottom: solid var(--primary-color) 2px;
+}
+
+#logo {
+  max-width: 100%;
 }
 
 .width-limiter {
@@ -83,10 +85,6 @@ nav ul {
 nav ul li {
   display: inline;
   margin-right: 10px;
-}
-.post {
-  background-color: #d7dee9;
-  margin-bottom: 20px;
 }
 footer {
   background-color: var(--cyan);
