@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" charset="utf-8">
 <head>
+  <!-- this ensures the page is scaled according to the device size -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   {{ $style := resources.Get "css/main.css" }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>

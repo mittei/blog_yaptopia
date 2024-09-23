@@ -7,6 +7,9 @@
   --orange: #EF9A48;
   --background-color: #FFFCC7;
   --cyan: #4DA394;
+
+  /* sizes */
+  --page-width: 800px;
 }
 
 *, ::after, ::before {
@@ -23,10 +26,11 @@ html, body {
 body {
   /* Putting these svg filters on the <html> element didn't work on Firefox */
   /* Also on Firefox, you need to set background for inner elements, instead of body */
-  filter: url('/svg/retro_filter.svg#filter');
-  -webkit-filter: url('/svg/retro_filter.svg#filter');
+  /* filter: url('/svg/retro_filter.svg#filter');
+  -webkit-filter: url('/svg/retro_filter.svg#filter'); */
+
   font-family: 'Inclusive Sans', 'Arial', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: var(--primary-color);
 
   line-height: 1.6;
@@ -68,15 +72,10 @@ header {
 }
 
 .width-limiter {
-  max-width: 600px;
+  max-width: var(--page-width);
   margin: auto;
 }
 
-header .subtitle {
-  font-size: 1.2em;
-  color: #666;
-  margin-top: 0;
-}
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -94,11 +93,53 @@ footer {
   text-align: center;
 }
 
-/* components */
+/* markdown components */
+
+p {
+  margin: 1em 0;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+p:first-child {
+  margin-top: 0;
+}
+
+a {
+  color: var(--cyan);
+  text-decoration-thickness: 2px;
+}
+a:active {
+  color: var(--red);
+}
 
 code {
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.highlight pre {
+  font-size: 1rem;
+  overflow-x: scroll;
+}
+
+blockquote {
+  border-left: solid 0.5rem var(--cyan);
+  margin: 0;
+  padding-left: 1em;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+}
+
+/* debug */
+
+.debug-text {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 0.8rem;
+  color: var(--red);
 }

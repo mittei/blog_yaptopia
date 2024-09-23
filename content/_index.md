@@ -2,6 +2,8 @@
 title: "Home page"
 ---
 
-This line is from `content/_index.md`.
+A sandbox where I mold my incoherent thoughts.
 
-[Go to firstpost](posts/post-4/).
+Source code: https://github.com/mittei/blog_yaptopia
+
+[Test Page](posts/bla/)
