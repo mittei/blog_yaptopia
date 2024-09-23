@@ -89,8 +89,11 @@ nav ul li {
   margin-bottom: 20px;
 }
 footer {
-  background-color: #f4f4f4;
+  background-color: var(--cyan);
   text-align: center;
+  color: var(--background-color);
+  border-top: solid var(--primary-color) 2px;
+  font-size: 1rem;
 }
 
 /* markdown components */
