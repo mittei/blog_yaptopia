@@ -58,7 +58,7 @@ So I think this book's message is: There is no higher or lower purpose, no hell 
 - Really unique settings. A guy who has turned into a wave phenomenon and materializes on Earth every 59 days? Who else would come up with that.
 - A lot of scenes felt a bit unnecessarily detailed (probably due to my insensitivity) but a few important scenes were really engaging and kept me going. I don't know much about writing styles but this book overall felt sort of cartoonish (not in a bad way) i.e. things happen in exaggerated ways.
 - I encountered so many new words. I'm not sure I remember even 10% of them. But it wasn't as hard to read as I expected from a book this old.
-- Favorite scene: Constant parting ways with Boaz. I almost cried 🥹.
+- Favorite scene: Constant parting ways with Boaz. I almost cried :face_holding_back_tears:.
 - I've been listening to talks by non-dualistic/Buddhistic meditation teachers and, interestingly, this book's message felt pretty similar to what they say (e.g. impermanence, "living in the moment").
 
 ## Misc.
