@@ -5,7 +5,7 @@
   --primary-color: #59322B;
   --red: #D54751;
   --orange: #EF9A48;
-  --background-color: #faf8d3;
+  --background-color: #f3f2d9;
   --cyan: #4DA394;
 
   /* sizes */
@@ -96,6 +96,16 @@ footer {
 
 /* markdown components */
 
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.2em;
+}
+
 p {
   margin: 1em 0;
 }
@@ -127,16 +137,19 @@ code {
 }
 
 blockquote {
-  border-left: solid 0.5rem var(--cyan);
+  border-left: solid 0.4em var(--cyan);
+  opacity: 0.8;
+  font-size: 0.9em;
   margin: 0;
   padding-left: 1em;
-  padding-top: 0.8em;
-  padding-bottom: 0.8em;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
 }
 
 /* debug */
 
 .debug-text {
+  display: none;
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
   font-weight: 400;
