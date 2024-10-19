@@ -2,10 +2,14 @@
   <main>
     <article>
       <div class="width-limiter">
+        <div class="nav-button">
+          <a href="/">Top</a>
+        </div>
         <span class="debug-text">layouts/_default/single.html</span>
         <div class="post-meta">
-          <span>Date: 2000-00-00</span>
+          <span>{{ .Date | time.Format (default "January 2, 2006" site.Params.DateFormat) }}</span>
         </div>
+        <h1>{{ .Title }}</h1>
         {{ .Content }}
       </div>
     </article>
