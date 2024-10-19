@@ -5,9 +5,6 @@ draft = false
 tags = ['reading_report']
 +++
 
-
-This was such a crazy story. I've never read anything like this before.
-
 ## Simplified Summary
 
 - The story revolves mainly around Malachi Constant, a billionaire boy, and William Niles Rumfoord, a nobly born man who has became a cosmic wave capable of seeing into the past and future. Rumfoord "materializes" on planets and moons when they intersect with the wave.
@@ -56,13 +53,15 @@ I also noticed an interesting similarity in Constant and Vonnegut's life: they w
 
 So I think this book's message is: There is no higher or lower purpose, no hell or heaven, no God who cares about us. Rich or poor, lucky or unlucky, you have things come and go. Don't seek meanings externally. Look inward, be yourself, and just enjoy the time with people you love.
 
-## Misc.
+## Overall thought
 
-Overall thought:
-- A lot of scenes felt a bit unnecessarily detailed (probably due to my insensitivity) but a few important scenes were really engaging and kept me going.
+- Really unique settings. A guy who has turned into a wave phenomenon and materializes on Earth every 59 days? Who else would come up with that.
+- A lot of scenes felt a bit unnecessarily detailed (probably due to my insensitivity) but a few important scenes were really engaging and kept me going. I don't know much about writing styles but this book overall felt sort of cartoonish (not in a bad way) i.e. things happen in exaggerated ways.
 - I encountered so many new words. I'm not sure I remember even 10% of them. But it wasn't as hard to read as I expected from a book this old.
 - Favorite scene: Constant parting ways with Boaz. I almost cried 🥹.
-- I've been listening to talks by non-dualistic/Buddhistic meditation teachers and, interestingly, what they say overlaps a lot with this book's message.
+- I've been listening to talks by non-dualistic/Buddhistic meditation teachers and, interestingly, this book's message felt pretty similar to what they say (e.g. impermanence, "living in the moment").
+
+## Misc.
 
 Real life references I found while reading Vonnegut's wikipedia:
 - At the end of the story, Constant asks Salo to take him to Indianapolis and he dies there. Vonnegut was also born and raised there.
