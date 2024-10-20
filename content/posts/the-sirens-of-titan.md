@@ -5,6 +5,8 @@ draft = false
 tags = ['reading_report']
 +++
 
+I read _The Sirens of Titan_ written by Kurt Vonnegut in 1959.
+
 ## Simplified Summary
 
 - The story revolves mainly around Malachi Constant, a billionaire boy, and William Niles Rumfoord, a nobly born man who has became a cosmic wave capable of seeing into the past and future. Rumfoord "materializes" on planets and moons when they intersect with the wave.
@@ -14,7 +16,7 @@ tags = ['reading_report']
 - Constant escapes Mercury a few years later and lands on Earth. People welcome him as Space Wanderer because Rumfoord predicted he would arrive one day and portrayed him as an icon/messiah.
 - In a welcoming ceremony for Space Wanderer, Rumfoord reveals to the crowd Space Wanderer used to be Malachi Constant, a greedy and lustful billionaire. He then tells Constant and his wife and boy to leave for Titan as a sacrifice for all human sins.
 - A robot Salo from a distant planet Tralfamadore has been living on Titan for a long time because his space ship broke. Turns out Rumfoord got advanced technology from him and used it to build the Army of Mars. Soon after Constant and co arrive on Titan, Rumfoord gets sick and disappears for good due to a solar storm. Right before disappearing, Rumfoord drops a bombshell; It turns out  Tralfamadorians have been remotely manipulating earthlings for hundreds of thousands of years to bring a replacement part for Salo's ship and its culmination is for Constant's child to just bring a random piece of metal. Rumfoord ended up being used to make just *that* happen. Salo, having become quite human by talking to Rumfoord, despairs of losing his best friend and realizing the futility of his mission and destroys himself.
-- Constant spends nearly all of the rest of his life on Titan. After her wife's natural death, he repairs Salo and asks him to take him to Earth. Soon after he lands on Earth, he has a peaceful death.
+- Constant spends nearly all of the rest of his life on Titan. After his wife's natural death, he repairs Salo and asks him to take him to Earth. Soon after he lands on Earth, he has a peaceful death.
 
 ## War
 
@@ -65,5 +67,5 @@ So I think this book's message is: There is no higher or lower purpose, no hell 
 
 Real life references I found while reading Vonnegut's wikipedia:
 - At the end of the story, Constant asks Salo to take him to Indianapolis and he dies there. Vonnegut was also born and raised there.
-- Her first wife, Jane, graduated Phi Beta Kappa. Constant also wore a Phi Beta Kappa key in the final scene.
+- His first wife, Jane, graduated Phi Beta Kappa. Constant also wore a Phi Beta Kappa key in the final scene.
 - Vonnegut was living in Barnstable when he wrote this book. Constant landed near a church in this town after departing from Mercury.
