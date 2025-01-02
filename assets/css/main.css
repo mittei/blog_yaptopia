@@ -94,6 +94,10 @@ footer {
   font-size: 1rem;
 }
 
+.post-meta {
+  font-size: 0.8em;
+}
+
 /* markdown components */
 
 h1 {
@@ -144,6 +148,14 @@ blockquote {
   padding-left: 1em;
   padding-top: 0.6em;
   padding-bottom: 0.6em;
+}
+
+img {
+  max-width: 100%;
+}
+
+figcaption {
+  font-size: 0.7em;
 }
 
 /* debug */
