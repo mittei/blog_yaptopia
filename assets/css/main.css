@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap');
 
 :root {
   --primary-color: #59322B;
@@ -18,7 +19,7 @@
 
 
 body {
-  font-family: 'Inclusive Sans', 'Arial', sans-serif;
+  font-family: 'Inclusive Sans', 'BIZ UDPGothic', 'Arial', sans-serif;
   font-size: 1.2rem;
   color: var(--primary-color);
 
