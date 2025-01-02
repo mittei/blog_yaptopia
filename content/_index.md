@@ -21,5 +21,5 @@ I made the title logo except the cat was designed by my friend (Thank you, P.).
 ## Articles
 
 - [Review: The Sirens of Titan](posts/the-sirens-of-titan/)
+- [When to use は vs が?](posts/jp-wa-vs-ga/)
 - [Test Page](posts/bla/)
-- [は vs が](posts/jp-wa-vs-ga/)
