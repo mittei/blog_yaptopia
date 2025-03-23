@@ -1,5 +1,5 @@
 +++
-title = 'Know nuance, and no nuisance'
+title = 'Know Nuance, and No Nuisance'
 date = 2025-03-23T19:00:00+09:00
 draft = false
 tags = ['japanese', 'language']
@@ -7,7 +7,7 @@ tags = ['japanese', 'language']
 
 This post aims to explain nuances of Japanese words that may not be immediately obvious (especially those whose dictionary definitions are too imprecise).
 
-New entries will be added as I come with interesting stuff to write.
+New entries will be added as I find interesting words to compare.
 
 ## 手伝う, 助ける, 救う, 救出する / help, rescue
 
