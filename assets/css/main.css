@@ -123,10 +123,16 @@ p:first-child {
 
 a {
   color: var(--cyan-dark);
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 0.1em;
 }
 a:active {
   color: var(--red);
+}
+
+strong {
+  background-color: color-mix(in srgb, var(--orange) 30%, transparent);
+  border-radius: 0.1em;
+  /* text-decoration: color-mix(in srgb, var(--orange) 70%, transparent) underline 0.1em; */
 }
 
 code {
