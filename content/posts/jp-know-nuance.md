@@ -18,17 +18,19 @@ Notations:
 ## 手伝う, 助ける, 救う, 救出する / help, rescue
 
 手伝う
-- Used for helping someone with a task by directly getting involved in it, cooperating with the person/people. Giving advice a few times wouldn't count as 手伝う. The doer has to be animate. 
+- Used for helping someone with a task by **directly getting involved in it**, cooperating with the person/people. Indirect involvement such as giving advice a few times wouldn't count as 手伝う. The doer has to be animate.
 - One exception is the phase Nも手伝って, where N is an inanimate thing and is one of the reasons/factors that contributes to the result described in the main clause.
 
 助ける
-- In everyday conversation, this is usually used when helping someone out of some undesirable situation they can't resolve themselves. However, the noun form 助け is often used for less "serious" help, sometimes the doer being inanimate.
+- In everyday conversation, this is usually used when helping someone **out of some undesirable situation** they can't resolve themselves. However, the noun form 助け is often used for less "serious" help, sometimes the doer being inanimate.
 
 救う
-- This is also for helping someone out, but more dramatic than 助ける, often out of life-threatening dangers or serious personal problems. It can be physical or emotional.
+- This also means helping someone out, but more dramatic than 助ける, often out of life-threatening dangers or serious personal problems. It can be physical or emotional.
 
 救出する
-- Close to "rescue". Similar to 救う, but less dramatic and only physical. The doer has to be animate, usually a professional like a firefighter, soldier, etc. Commonly used in news.
+- Close to "rescue". Similar to 救う, but less dramatic and mostly physical. The doer is usually animate, often a professional like a firefighter, soldier, etc. Commonly used in news.
+
+### Examples
 
 > 晩ごはん作るのを{手伝って / ? 助けて}くれない？
 >
@@ -75,6 +77,8 @@ This is the exception usage mentioned above.
 
 知っている
 - to know what something is, without necessarily understanding it deeply. **You have acquired the knowledge before, not now**.
+
+### Examples
 
 > この本読んだけど、よく{わからなかった (W1) / 理解できなかった / ? 理解しなかった}
 >
