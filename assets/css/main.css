@@ -10,11 +10,6 @@
   --page-width: 700px;
 }
 
-*, ::after, ::before {
-  /* box-sizing: border-box; */
-}
-
-
 body {
   font-family: 'Inclusive Sans', 'BIZ UDPGothic', 'Arial', sans-serif;
   font-size: 1.2rem;
@@ -130,8 +125,9 @@ a:active {
 }
 
 strong {
+  padding: 0.15em 0;
   background-color: color-mix(in srgb, var(--orange) 30%, transparent);
-  border-radius: 0.1em;
+  border-radius: 0.2em;
   /* text-decoration: color-mix(in srgb, var(--orange) 70%, transparent) underline 0.1em; */
 }
 
@@ -149,12 +145,11 @@ code {
 
 blockquote {
   border-left: solid 0.4em var(--cyan-dark);
-  opacity: 0.8;
+  background: white;
   font-size: 0.9em;
-  margin: 0;
-  padding-left: 1em;
-  padding-top: 0.6em;
-  padding-bottom: 0.6em;
+  margin: 1em 0;
+  padding: 1em 1.5em;
+}
 }
 
 img {
