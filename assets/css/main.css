@@ -144,12 +144,21 @@ code {
 }
 
 blockquote {
-  border-left: solid 0.4em var(--cyan-dark);
-  background: white;
+  border: solid 0.2em var(--primary-color);
+  border-radius: 0.3em;
+  box-shadow: 0.3em 0.3em color-mix(in srgb, var(--orange) 30%, transparent);
   font-size: 0.9em;
   margin: 1em 0;
   padding: 1em 1.5em;
 }
+
+hr {
+  border-color: var(--primary-color);
+  border-style: dotted none none none;
+  opacity: 0.3;
+  border-width: 1em;
+  margin: 3em auto;
+  width: 7em;
 }
 
 img {
