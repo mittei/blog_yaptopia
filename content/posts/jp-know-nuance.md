@@ -15,6 +15,8 @@ Notations:
 - ?: Likely conveys the intended meaning but is unnatural
 - (nothing): Natural
 
+To check how words are used, I mainly use [Massif](https://massif.la/ja) and [NINJAL-LWP](https://tsukubawebcorpus.jp/search/).
+
 ## 手伝う, 助ける, 救う, 救出する / help, rescue
 
 手伝う
@@ -108,7 +110,7 @@ Using 知る makes it sound as if the listener isn't involved with the task at a
 
 > (Your friend looks annoyed)
 > 
-> イライラしてるのは{わかる (W3) / ? 理解してる / # 知ってる}。でももうちょっと周りの人のことを考えて
+> イライラしてるのは{わかる (W3) / ? 理解してる / ! 知ってる}。でももうちょっと周りの人のことを考えて
 >
 > I know you're annoyed. But I want you to be more considerate to others.
 
@@ -116,7 +118,7 @@ Using 知る makes it sound as if the listener isn't involved with the task at a
 
 > A: レストランで態度の悪い客見ると、超いらいらしない？
 >
-> B: え、その気持ちすごく{わかる (W4) / 理解できる / # 知ってる}！
+> B: え、その気持ちすごく{わかる (W4) / 理解できる / ! 知ってる}！
 >
 > A: Don't you get frustrated when you see a customer being rude in a restaurant?
 >
@@ -124,4 +126,75 @@ Using 知る makes it sound as if the listener isn't involved with the task at a
 
 知ってる isn't suitable because it's about recognizing the feeling rather than about having it as conceptual knowledge.
 
+> この車、いくらするか{知り / ! わかり / ! 理解し }たい？
+>
+> Do you want to know how much this car cost?
+
+<!-- 
+彼の気持ちをわかってあげたいが、わからない
+! 彼の気持ちを知ってあげたいが、しれない why???
+-->
+
+## 揺する, 揺らす, 揺さぶる, 揺るがす, 揺れる, 揺らぐ / shake
+
+These words are obviously all based on the idea of "shake" and are often interchangeable.
+
+Physical meanings:
+
+- 揺れる (intransitive): to shake slowly or sway as something like a pendulum (Vibrating doesn't count).
+- 揺らす (transitive): to make something 揺れる
+- 揺する/揺さぶる (transitive): Similar to 揺らす but the target is usually something firm that doesn't sway naturally if you let it go, such as a pan, bottle, table, etc.
+
+Figurative meanings:
+
+- 揺らぐ (intransitive): for belief, trust, choice, preference, relationship, social status, system, etc. to destabilize.
+- 揺さぶる (transitive): to stir someone's heart positively (心を揺さぶる), to make something 揺らぐ, to make someone feel uneasy/worried/nervous strategically, or to 揺する physically.
+- 揺るがす (transitive): Similar to 揺らぐ but destabilizing in a fundamental/significant way.
+
+<!--
+ 体を揺らす
+	156 	7.51 	3.15 
+ 髪を揺らす
+	75 	10.71 	6.28 
+ 心を揺らす
+	64 	6.54 	2.18 
+ 身体を揺らす
+	62 	8.28 	3.90 
+ 肩を揺らす
+	53 	9.68 	5.27 
+ ネットを揺らす
+	38 	7.99 	3.61 
+ 木を揺らす
+	33 	7.61 	3.24 
+ 葉を揺らす
+	31 	7.89 	3.51 
+ 頭を揺らす
+
+
+ 体を揺する
+	103 	8.82 	2.56 
+ 身体を揺する
+	46 	9.75 	3.49 
+ 肩を揺する
+	37 	11.07 	4.80 
+ 木を揺する
+	22 	8.93 	2.67 
+ 頭を揺する
+	11 	7.03 	0.77 
+ 瓶を揺する
+	8 	10.24 	3.94 
+ 心を揺する
+	7 	5.25 	-1.01 
+ 【人名】を揺する
+	5 	0.92 	-5.34 
+ 身を揺する
+	5 	6.12 	-0.15 
+ 【一般】を揺する
+	4 	0.85 	-5.42 
+ からだを揺する
+	4 	9.06 	2.77 
+ 上半身を揺する
+	4 	10.74 	4.37 
+ 包丁を揺する
+-->
 
