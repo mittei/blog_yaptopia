@@ -23,6 +23,7 @@ I made the title logo except the cat was designed by my friend (Thank you, P.).
 - [Review: The Sirens of Titan](posts/the-sirens-of-titan/)
 - [When to use は vs が?](posts/jp-wa-vs-ga/)
 - [Know Nuance, and No Nuisance](posts/jp-know-nuance)
+- [Demystifying AI for Laymen](posts/demistifying-llm)
 
 ## Debug
 
