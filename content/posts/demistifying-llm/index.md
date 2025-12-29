@@ -1,7 +1,7 @@
 +++
 title = 'Demystifying AI for Laymen'
 date = 2025-12-28T20:00:00+09:00
-draft = true
+draft = false
 tags = ['LLM']
 +++
 
