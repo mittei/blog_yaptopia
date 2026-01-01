@@ -1,5 +1,5 @@
 +++
-title = 'Know Nuance, and No Nuisance'
+title = 'Know Nuance so No Nuisance'
 date = 2025-03-23T19:00:00+09:00
 draft = false
 tags = ['japanese', 'language']
@@ -24,13 +24,13 @@ To check how words are used, I mainly use [Massif](https://massif.la/ja) and [NI
 - One exception is the phase Nも手伝って, where N is an inanimate thing and is one of the reasons/factors that contributes to the result described in the main clause.
 
 助ける
-- In everyday conversation, this is usually used when helping someone **out of some undesirable situation** they can't resolve themselves. However, the noun form 助け is often used for less "serious" help, sometimes the doer being inanimate.
+- In everyday conversation, this is usually used when helping someone **out of some undesirable situation** they can't resolve themselves. However, the noun form 助け is often used for less serious situations, sometimes the doer being inanimate.
 
 救う
-- This also means helping someone out, but more dramatic than 助ける, often out of life-threatening dangers or serious personal problems. It can be physical or emotional.
+- This also means helping someone out, but more dramatic than 助ける, often dealing with life-threatening dangers or serious personal problems. It can be physical or emotional.
 
 救出する
-- Close to "rescue". Similar to 救う, but less dramatic and mostly physical. The doer is usually animate, often a professional like a firefighter, soldier, etc. Commonly used in news.
+- Close to "rescue". Similar to 救う, but less dramatic and usually physical. The doer is usually animate, often a professional like a firefighter, soldier, etc. Commonly used in news.
 
 ### Examples
 
@@ -50,7 +50,7 @@ The 助ける version is okay but sounds pretty stiff (because Japanese tends to
 
 This is the exception usage mentioned above.
 
-> 職場の人間関係で深刻に悩んでいたところを、田中さんが{# 手伝って / 助けて}くれた
+> 職場の人間関係で深刻に悩んでいたところを、田中さんが{? 手伝って / 助けて}くれた
 >
 > I was struggling with personal issues with coworkers but, thank God, Tanaka helped me out.
 
@@ -61,7 +61,7 @@ This is the exception usage mentioned above.
 > Building communication skills helps you in various situations.
 
 
-> 人生に絶望していたが、田中さんの言葉に{救われた / 助けられた / # 手伝われた / # 救出された}
+> 人生に絶望していたが、田中さんの言葉に{救われた / 助けられた / ! 手伝われた / ? 救出された}
 >
 > I lost faith in life but Tanaka's word change my life.
 
