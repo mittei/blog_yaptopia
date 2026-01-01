@@ -13,7 +13,7 @@ Sentence ending particles (終助詞) are extremely common in Japanese. Yet, Jap
 
 This is an early scene from 怪獣８号 where 徳 (the tallest guy) introduces レノ, a new employee, to カフカ and then tells レノ that カフカ used to strive to join 防衛隊.
 
-![(Toku introducing a new employee to Kafuka) 今日入ったバイト。防衛隊目指してんだってよ！ (Toku pointing at Kafuka) こいつも昔目指してたんだよ。もう諦めちまってすっかりココの古参だけど。](example-んだよ.png)
+{{<figure src="example-んだよ.png" caption="Source: [怪獣８号](https://shonenjumpplus.com/episode/13933686331674116123), Chapter 1." alt="(Toku introducing a new employee to Kafuka) 今日入ったバイト。防衛隊目指してんだってよ！ (Toku pointing at Kafuka) こいつも昔目指してたんだよ。もう諦めちまってすっかりココの古参だけど。">}}
 
 We're going to focus on this sentence:
 
