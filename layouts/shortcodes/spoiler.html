@@ -1,0 +1,41 @@
+<details class="spoiler">
+  <summary class="spoiler-toggle"></summary>
+  <span class="spoiler-content">{{ .Inner }}</span>
+</details>
+
+<style>
+  .spoiler {
+    display: inline;
+  }
+
+  .spoiler-toggle {
+    display: inline-block;
+    cursor: pointer;
+    padding: 0em 0.4em;
+    border: 2px solid var(--primary-color);
+    border-radius: 4px;
+    font-size: 0.85em;
+    list-style: none;
+  }
+
+  .spoiler-toggle::-webkit-details-marker {
+    display: none;
+  }
+
+  .spoiler-toggle::after {
+    content: "Reveal";
+  }
+
+  .spoiler[open] .spoiler-toggle::after {
+    content: "Hide";
+  }
+
+  .spoiler-toggle:hover {
+    background-color: var(--orange);
+  }
+
+  .spoiler-content {
+    display: inline;
+    /* margin-left: 0.5em; */
+  }
+</style>
