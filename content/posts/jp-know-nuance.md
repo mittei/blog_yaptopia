@@ -82,13 +82,13 @@ This is the exception usage mentioned above.
 
 ### Examples
 
-> この本読んだけど、よく{わからなかった (W1) / 理解できなかった / ? 理解しなかった}
+> この本読んだけど、よく{わからなかった (W1) / 理解できなかった / ? 理解しなかった / ! 知らなかった}
 >
 > I read this book but couldn't really understand it.
 
 > (Showing someone a fact question)
 > 
-> 昨日のテストのこの問題{わかった (W2) / ? 理解した / ? 理解できた}？
+> 昨日のテストのこの問題{わかった (W2) / ? 理解した / ? 理解できた / ! 知った}？
 >
 > Did you figure out this question in the test yesterday?
 
@@ -96,7 +96,7 @@ Unless you're asking if they understood what the question was asking, 理解 wou
 
 > (You were asked to find the difference between two almost identical pictures and you finally figure it out.)
 >
-> {わかった (W2) / ? 理解した}！
+> {わかった (W2) / ? 理解した / ! 知った}！
 > 
 > Got it!
 
@@ -106,15 +106,7 @@ Unless you're asking if they understood what the question was asking, 理解 wou
 >
 > Do you understand if you fail this time there won't be any more chances?
 
-Using 知る makes it sound as if the listener isn't involved with the task at all.
-
-> (Your friend looks annoyed)
-> 
-> イライラしてるのは{わかる (W3) / ? 理解してる / ! 知ってる}。でももうちょっと周りの人のことを考えて
->
-> I know you're annoyed. But I want you to be more considerate to others.
-
-知ってる doesn't fit because it's not prior knowledge you've already had. You're seeing it right now.
+Using 知る makes it sound as if the listener isn't involved with the task at all (which can be sarcasm).
 
 > A: レストランで態度の悪い客見ると、超いらいらしない？
 >
@@ -130,10 +122,7 @@ Using 知る makes it sound as if the listener isn't involved with the task at a
 >
 > Do you want to know how much this car cost?
 
-<!-- 
-彼の気持ちをわかってあげたいが、わからない
-! 彼の気持ちを知ってあげたいが、しれない why???
--->
+わかる doesn't work because... わかりたい just isn't used in most situations.
 
 ## 揺する, 揺らす, 揺さぶる, 揺るがす, 揺れる, 揺らぐ / shake
 
@@ -198,3 +187,70 @@ Figurative meanings:
  包丁を揺する
 -->
 
+## 考え, 感想
+
+考え
+- A thought
+
+<!-- 
+明日のプレゼン大丈夫かなあという考えがついつい浮かぶ
+
+-->
+
+感想
+- Given you've just seen/read/etc. something like a show, artistic work, document, etc.; 感想 refers to your thoughts about it e.g. whether it was good, how it made you feel, what thoughts it evoked. It has a sense of being a personal take (opposed to objective and comprehensive analysis).
+
+> おすすめした映画、どうだった？ {? 考え / 感想}を聞かせてよ
+>
+> How was the movie I recommended? Tell me what you thought.
+
+## 状態, 状況, 事態, 事情, 情勢, 様子 / condition, situation, state
+
+## 実は, 本当は, 実際 / actually
+
+実は
+- Highlights a surprising/unexpected fact.
+
+本当は
+- Highlights truth, what should normally be the case, or someone's real emotions/desires.
+- Used when the speaker is confessing something secret or personal.
+
+実際
+- Highlights truth
+- Introduces a supporting fact.
+- Doing something in practice (opposed to theorizing, simulating, etc.)
+
+> 彼女いるっていったけど、{実は / 本当は / ? 実際は}彼女いたことない
+>
+> I said I have a girlfriend, but actually, I've never had a girlfriend in my life.
+
+実際は would sound weirdly detached, when it is your personal matter.
+
+> (At the beginning of a meeting)
+>
+> みなさん、{実は / ! 本当は / ! 実際は }悲しいお知らせがあります。
+>
+> Everyone, I have bad news.
+
+
+> 健康の維持には運動が重要です。実際、毎日10分の運動が、
+
+
+## 目覚める, 目が覚める, 起きる / wake up
+
+## -終わる, -切る / finish doing
+
+## それまで, そこまで, そんなに, それほど
+
+> そこまで酷くはないよ！
+
+## 教える, 伝える / tell (someone)
+
+## 話す, しゃべる / speak, chat
+
+
+## 考える, 思う, 思考する / think
+
+- 思う: Can be either emotional feeling or thinking.
+    - 宿題がいっぱい出て面倒だなあと思った
+- 考える: 
