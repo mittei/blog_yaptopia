@@ -10,6 +10,17 @@
       <article>
         <span class="debug-text">layouts/index.html</span>
         {{ .Content }}
+
+        {{ $posts := where .Site.RegularPages "Section" "posts" }}
+        {{ $posts := where $posts "Draft" false }}
+        {{ $posts := $posts.ByDate.Reverse }}
+
+        {{ range $posts }}
+        <p>
+          <div>{{ .Date |  time.Format (default "January 2, 2006" site.Params.DateFormat) }}</div>
+          <div><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+        </p>
+        {{ end }}
       </article>
     </div>
   </main>
