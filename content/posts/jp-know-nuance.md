@@ -232,10 +232,11 @@ Figurative meanings:
 >
 > Everyone, I have bad news.
 
+> 健康の維持には運動が重要です。{実際 / ! 実際は}、毎日10分の運動で、生活習慣病にかかる確率が大きく下がります。
+>
+> Exercise is important to stay healthy. In fact, 10 minutes of exercise every day significantly decreases the risk of chronic diseases.
 
-> 健康の維持には運動が重要です。実際、毎日10分の運動が、
-
-
+<!--
 ## 目覚める, 目が覚める, 起きる / wake up
 
 ## -終わる, -切る / finish doing
@@ -254,3 +255,5 @@ Figurative meanings:
 - 思う: Can be either emotional feeling or thinking.
     - 宿題がいっぱい出て面倒だなあと思った
 - 考える: 
+
+-->
