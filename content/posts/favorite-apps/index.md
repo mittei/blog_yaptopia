@@ -19,7 +19,7 @@ But it has one pain point which is that when you leave a search result page open
 
 Because of this annoyance, I set StartPage as the default search engine only on my phone. On desktop I use [Brave Search](https://search.brave.com/), although its search quality is often bad so I sometimes have to switch to StartPage. I don't use DuckDuckGo because its search accuracy is bad.
 
-I used to use [Kagi](https://kagi.com/), a paid search engine, and I liked it quite a bit, but at some point I decided it wasn't worth the money. The $5/month plan only offered 100 searches, which was way too few for me, so I had to go with the $10 plan. It also had an annoying quirk where it logged me out when I navigated back to its search result page.
+I used to use [Kagi](https://kagi.com/), a paid search engine, and I liked it quite a bit, but eventually I thought it wasn't worth the cost. The $5/month plan only offered 100 searches, which was way too few for me, so I had to go with the $10 plan.
 
 ## Firefox Extensions
 
